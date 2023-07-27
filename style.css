@@ -1,0 +1,13 @@
+h1{
+    background-color: brown;
+    color: aliceblue;
+}
+p{
+    background-color: rgb(31, 113, 214); color:aliceblue;
+}
+#p1{
+    background-color: aqua; color:aliceblue;
+}
+.class1 p{
+    background-color: darksalmon; color:blueviolet;
+}
